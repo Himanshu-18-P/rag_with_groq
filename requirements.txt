@@ -1,0 +1,14 @@
+langchain
+torch
+accelerate
+sentence_transformers
+streamlit_chat
+streamlit
+faiss-cpu
+tiktoken
+huggingface-hub
+pypdf
+groq
+langchain-groq
+python-dotenv
+langchain_community
